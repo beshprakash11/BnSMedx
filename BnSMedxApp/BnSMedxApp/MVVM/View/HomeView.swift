@@ -9,11 +9,9 @@ import SwiftUI
 
 struct HomeView: View {
     var body: some View {
-        ScrollView {
-            VStack (alignment: .center, spacing: 10){
-                Text("Hello, World!")
-            }
-        }
+        VStack{
+            
+        }//VStack
     }
 }
 
